@@ -197,6 +197,8 @@ To simplify adding numbers and strings, we provide those two methods:
 This project is licensed under the MIT License.
 
 Copyright (c) 2017 Timucin Besken, Clara-Maria Barth, Maximilian Tornow, Amadeo Charlé
+
+
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
 files (the "Software"), to deal in the Software without
